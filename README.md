@@ -40,4 +40,14 @@ npm run build
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+
+## Материалы из локальной папки
+
+Исходники и документы этой работы собраны в этом репозитории.
+
+[data](data/) · [public](public/) · [reports](reports/) · [src](src/)
+
+### Отчёты и документы
+
+- [Отчет БутаковНМ 1 лаба.docx](reports/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%9D%D0%9C%201%20%D0%BB%D0%B0%D0%B1%D0%B0.docx)
